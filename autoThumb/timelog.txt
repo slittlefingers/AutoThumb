@@ -1,0 +1,482 @@
+youtube1
+Action ID: 1, Operation ID: 1, Operation Name: Open the YouTube app from the home screen.,extraction duration: 9.8061 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the YouTube app from the home screen.,operation duration: 105.0069 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the "Shorts" button to switch to the Shorts section on YouTube.,extraction duration: 9.2962 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the "Shorts" button to switch to the Shorts section on YouTube.,operation duration: 86.4249 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap in the middle of the screen to pause the shorts video.,extraction duration: 7.2905 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap in the middle of the screen to pause the shorts video.,operation duration: 84.1928 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the like button located at coordinates [656, 683] to like the video.,extraction duration: 8.9823 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the like button located at coordinates [656, 683] to like the video.,operation duration: 88.2874 seconds
+
+youtube2
+Action ID: 1, Operation ID: 1, Operation Name: Tap the search icon at the top right corner to initiate a search on YouTube.,extraction duration: 24.4784 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap the search icon at the top right corner to initiate a search on YouTube.,operation duration: 130.5266 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "NBA James Harden" into the YouTube search bar to find related videos.,extraction duration: 23.0297 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "NBA James Harden" into the YouTube search bar to find related videos.,operation duration: 73.2946 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon at the bottom right to execute the search for "NBA James Harden" videos on YouTube.,extraction duration: 23.8699 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon at the bottom right to execute the search for "NBA James Harden" videos on YouTube.,operation duration: 74.5285 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe down on the screen to reveal more content.,extraction duration: 16.4040 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe down on the screen to reveal more content.,operation duration: 95.4987 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the video titled "James Harden's Best Plays Of The Decade" to open it.,extraction duration: 28.1008 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the video titled "James Harden's Best Plays Of The Decade" to open it.,operation duration: 128.7864 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap the "Subscribe" button to follow the YouTuber who posted the video.,extraction duration: 29.0937 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap the "Subscribe" button to follow the YouTuber who posted the video.,operation duration: 121.1498 seconds
+
+youtube3
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Comments" section to activate the keyboard for typing.,extraction duration: 42.3788 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Comments" section to activate the keyboard for typing.,operation duration: 141.7121 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the "Add a comment..." input box to activate the keyboard for typing.,extraction duration: 35.2273 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the "Add a comment..." input box to activate the keyboard for typing.,operation duration: 100.5444 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Type the comment "Great player" in the input box to complete the user's instruction.,extraction duration: 39.1149 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Type the comment "Great player" in the input box to complete the user's instruction.,operation duration: 99.7123 seconds
+Action ID: 1, Operation ID: 4, Operation Name: Tap the send button to post the comment "Great player".,extraction duration: 47.1781 seconds
+Action ID: 1, Operation ID: 4, Operation Name: Tap the send button to post the comment "Great player".,operation duration: 104.5916 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap in the middle of the screen to pause the short video.,extraction duration: 45.5518 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap in the middle of the screen to pause the short video.,operation duration: 153.8683 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe the timeline of the video slightly to the right to move it forward a bit.,extraction duration: 45.8498 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe the timeline of the video slightly to the right to move it forward a bit.,operation duration: 140.7844 seconds
+
+
+
+Twitch1
+Action ID: 1, Operation ID: 1, Operation Name: I will open the Twitch app from the home screen.,extraction duration: 5.2484 seconds
+Action ID: 1, Operation ID: 1, Operation Name: I will open the Twitch app from the home screen.,operation duration: 105.2824 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the "Clips" tab to switch to the Clips section.,extraction duration: 5.2123 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the "Clips" tab to switch to the Clips section.,operation duration: 97.8343 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe up on the screen to move to the next video.,extraction duration: 4.9374 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe up on the screen to move to the next video.,operation duration: 98.9546 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe down on the screen to move to the next video.,extraction duration: 4.8312 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe down on the screen to move to the next video.,operation duration: 124.3617 seconds
+Action ID: 4, Operation ID: 3, Operation Name: Swipe up on the screen to move to the next video.,extraction duration: 4.5093 seconds
+Action ID: 4, Operation ID: 3, Operation Name: Swipe up on the screen to move to the next video.,operation duration: 66.8323 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the Twitch app from the home screen.,extraction duration: 4.9185 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the Twitch app from the home screen.,operation duration: 129.1800 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the "Clips" option at the top of the screen to switch to the Clips section.,extraction duration: 5.2155 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the "Clips" option at the top of the screen to switch to the Clips section.,operation duration: 96.3769 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe up on the screen to slide down the video and show the next one.,extraction duration: 4.8843 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe up on the screen to slide down the video and show the next one.,operation duration: 100.3935 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe down on the screen to move to the next video.,extraction duration: 5.2019 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe down on the screen to move to the next video.,operation duration: 57.5203 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap in the middle of the screen at coordinates (360, 825) to pause the short video.,extraction duration: 3.3228 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap in the middle of the screen at coordinates (360, 825) to pause the short video.,operation duration: 101.2595 seconds
+Action ID: 6, Operation ID: 1, Operation Name: Tap on the heart icon at coordinates [249, 1172] to like the content.,extraction duration: 3.3913 seconds
+Action ID: 6, Operation ID: 1, Operation Name: Tap on the heart icon at coordinates [249, 1172] to like the content.,operation duration: 94.8017 seconds
+
+Twitch_2
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the channel avatar located at coordinates [642, 879].,extraction duration: 3.3955 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the channel avatar located at coordinates [642, 879].,operation duration: 98.1458 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the channel avatar located at coordinates [126, 326].,extraction duration: 3.2919 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the channel avatar located at coordinates [126, 326].,operation duration: 62.8371 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the channel avatar icon at coordinates [126, 326] to follow the channel.,extraction duration: 3.2990 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the channel avatar icon at coordinates [126, 326] to follow the channel.,operation duration: 85.5320 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the "Videos" tab to view the video content available on the channel.,extraction duration: 3.5006 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the "Videos" tab to view the video content available on the channel.,operation duration: 88.9995 seconds
+
+Twitch_3
+Action ID: 1, Operation ID: 1, Operation Name: Open the Twitch app from the home screen.,extraction duration: 10.5475 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the Twitch app from the home screen.,operation duration: 108.4711 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Pause the video that is currently playing on the screen.,extraction duration: 8.4528 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Pause the video that is currently playing on the screen.,operation duration: 118.2231 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the "Send a message" input box to activate the keyboard.,extraction duration: 6.1257 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the "Send a message" input box to activate the keyboard.,operation duration: 114.9402 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Type the comment "lol" into the message input box.,extraction duration: 6.0055 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Type the comment "lol" into the message input box.,operation duration: 69.7761 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap on the "OK, Got it!" button to dismiss the chat rules and continue watching the stream.,extraction duration: 7.2192 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap on the "OK, Got it!" button to dismiss the chat rules and continue watching the stream.,operation duration: 114.2591 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap on the "twitchvima" username to follow the streamer on Twitch.,extraction duration: 6.7014 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap on the "twitchvima" username to follow the streamer on Twitch.,operation duration: 71.3634 seconds
+
+chrome_1
+Action ID: 1, Operation ID: 1, Operation Name: Open the Chrome app from the home screen.,extraction duration: 99.8912 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the Chrome app from the home screen.,operation duration: 203.4969 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard for typing.,extraction duration: 150.0713 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard for typing.,operation duration: 241.4711 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Type "4chan" into the search bar to search for the website.,extraction duration: 152.7325 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Type "4chan" into the search bar to search for the website.,operation duration: 216.4461 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Tap on the "4chan.org" link to enter the website.,extraction duration: 106.5635 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Tap on the "4chan.org" link to enter the website.,operation duration: 157.6074 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Tap on the "Verify you are human" checkbox to proceed with the verification process.,extraction duration: 106.2948 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Tap on the "Verify you are human" checkbox to proceed with the verification process.,operation duration: 167.3693 seconds
+Action ID: 2, Operation ID: 5, Operation Name: Tap on the "Boards" section to explore different topics on the 4chan website.,extraction duration: 99.8803 seconds
+Action ID: 2, Operation ID: 5, Operation Name: Tap on the "Boards" section to explore different topics on the 4chan website.,operation duration: 187.4664 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up to scroll down the page and look for the video games section on the 4chan website.,extraction duration: 90.9940 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up to scroll down the page and look for the video games section on the 4chan website.,operation duration: 188.2520 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the "Video Games" section to enter it.,extraction duration: 108.7320 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the "Video Games" section to enter it.,operation duration: 166.9735 seconds
+Action ID: 3, Operation ID: 3, Operation Name: Tap on the "Accept" button to agree to the disclaimer and proceed to the Video Games section.,extraction duration: 105.6549 seconds
+Action ID: 3, Operation ID: 3, Operation Name: Tap on the "Accept" button to agree to the disclaimer and proceed to the Video Games section.,operation duration: 178.1142 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe up on the screen to scroll down the post.,extraction duration: 104.8168 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe up on the screen to scroll down the post.,operation duration: 194.6649 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe up on the screen to slide down the post further.,extraction duration: 102.7413 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe up on the screen to slide down the post further.,operation duration: 224.5845 seconds
+Action ID: 4, Operation ID: 3, Operation Name: Swipe up on the screen to slide down the post.,extraction duration: 102.1569 seconds
+Action ID: 4, Operation ID: 3, Operation Name: Swipe up on the screen to slide down the post.,operation duration: 184.4903 seconds
+Action ID: 4, Operation ID: 4, Operation Name: Swipe up on the screen to slide down the post once.,extraction duration: 96.5406 seconds
+Action ID: 4, Operation ID: 4, Operation Name: Swipe up on the screen to slide down the post once.,operation duration: 174.9246 seconds
+Action ID: 4, Operation ID: 5, Operation Name: Swipe down on the screen to slide down the post.,extraction duration: 89.6343 seconds
+Action ID: 4, Operation ID: 5, Operation Name: Swipe down on the screen to slide down the post.,operation duration: 187.5504 seconds
+Action ID: 4, Operation ID: 6, Operation Name: Swipe down on the screen to move the post further down.,extraction duration: 107.7111 seconds
+Action ID: 4, Operation ID: 6, Operation Name: Swipe down on the screen to move the post further down.,operation duration: 174.9223 seconds
+
+
+
+chrome-2
+Action ID: 1, Operation ID: 1, Operation Name: Tap the three-dot menu icon to access more options, including opening a new incognito tab.,extraction duration: 98.9288 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap the three-dot menu icon to access more options, including opening a new incognito tab.,operation duration: 188.8651 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the "New Incognito tab" option to open a new incognito tab.,extraction duration: 97.6946 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the "New Incognito tab" option to open a new incognito tab.,operation duration: 151.5907 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard for typing.,extraction duration: 144.6711 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard for typing.,operation duration: 229.5774 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Type "4chan" into the search bar to proceed with the search.,extraction duration: 97.9741 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Type "4chan" into the search bar to proceed with the search.,operation duration: 154.3096 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Tap on the "4chan" link to enter the website.,extraction duration: 101.7848 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Tap on the "4chan" link to enter the website.,operation duration: 153.4193 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Tap on the "Verify you are human" checkbox to proceed with the verification process.,extraction duration: 97.6002 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Tap on the "Verify you are human" checkbox to proceed with the verification process.,operation duration: 152.0425 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up on the screen to scroll down and reveal more sections on the 4chan website.,extraction duration: 98.1820 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up on the screen to scroll down and reveal more sections on the 4chan website.,operation duration: 245.6256 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the "Sports" section located under the "Interests" category on the 4chan website.,extraction duration: 91.2020 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the "Sports" section located under the "Interests" category on the 4chan website.,operation duration: 151.8537 seconds
+Action ID: 3, Operation ID: 3, Operation Name: Tap on the "Accept" button to agree to the disclaimer and proceed to the sports section on the 4chan website.,extraction duration: 96.9537 seconds
+Action ID: 3, Operation ID: 3, Operation Name: Tap on the "Accept" button to agree to the disclaimer and proceed to the sports section on the 4chan website.,operation duration: 163.9828 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe up from the middle of the screen to scroll down the post once.,extraction duration: 99.5006 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe up from the middle of the screen to scroll down the post once.,operation duration: 186.4475 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe up from the middle of the screen to scroll down the post once.,extraction duration: 97.6819 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe up from the middle of the screen to scroll down the post once.,operation duration: 147.6345 seconds
+
+
+
+reddit-1
+Action ID: 1, Operation ID: 1, Operation Name: Open the Reddit app from the home screen.,extraction duration: 4.3775 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the Reddit app from the home screen.,operation duration: 107.1053 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search icon to activate the search bar in the Reddit app.,extraction duration: 5.2746 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search icon to activate the search bar in the Reddit app.,operation duration: 101.8162 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the "r/videos" text to access the channel.,extraction duration: 4.3285 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the "r/videos" text to access the channel.,operation duration: 76.0686 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Tap on the "r/videos" channel to access it.,extraction duration: 4.3062 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Tap on the "r/videos" channel to access it.,operation duration: 77.6218 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up slightly on the screen to scroll down the page.,extraction duration: 4.4755 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up slightly on the screen to scroll down the page.,operation duration: 116.4088 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the play button of the first video titled "Man Straps Down His Home as Milton Arrives in Florida" to open it.,extraction duration: 6.5091 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the play button of the first video titled "Man Straps Down His Home as Milton Arrives in Florida" to open it.,operation duration: 107.9500 seconds
+
+reddit-2
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar icon to start searching for "r/funny".,extraction duration: 5.3875 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar icon to start searching for "r/funny".,operation duration: 102.5663 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the search input box to activate it for typing.,extraction duration: 5.0230 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the search input box to activate it for typing.,operation duration: 63.9336 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Type "r/funny" into the search box to search for the subreddit.,extraction duration: 6.3360 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Type "r/funny" into the search box to search for the subreddit.,operation duration: 65.7130 seconds
+Action ID: 1, Operation ID: 4, Operation Name: Tap on the "r/funny" subreddit to open the channel.,extraction duration: 4.5749 seconds
+Action ID: 1, Operation ID: 4, Operation Name: Tap on the "r/funny" subreddit to open the channel.,operation duration: 66.9137 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe down from near the top of the screen to near the bottom to scroll down once.,extraction duration: 4.5226 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe down from near the top of the screen to near the bottom to scroll down once.,operation duration: 100.3509 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap the "Join" button at coordinates [644, 264] to join the channel.,extraction duration: 4.5453 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap the "Join" button at coordinates [644, 264] to join the channel.,operation duration: 134.9349 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the post titled "Wrong turn" to open it.,extraction duration: 5.5999 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the post titled "Wrong turn" to open it.,operation duration: 101.4942 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe up on the screen to slide down the post once.,extraction duration: 5.9139 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe up on the screen to slide down the post once.,operation duration: 69.0071 seconds
+
+
+X(twitter)
+Action ID: 1, Operation ID: 1, Operation Name: Open the X (Twitter) app from the home screen.,extraction duration: 46.4879 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the X (Twitter) app from the home screen.,operation duration: 142.9208 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the "For you" section located at coordinates [168, 210].,extraction duration: 41.6097 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the "For you" section located at coordinates [168, 210].,operation duration: 133.6776 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe down from near the top of the screen to the middle to slide down once.,extraction duration: 41.5200 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe down from near the top of the screen to the middle to slide down once.,operation duration: 133.6888 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the search bar icon to activate the search function.,extraction duration: 88.1195 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the search bar icon to activate the search function.,operation duration: 180.1414 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Tap on the search input area to activate the keyboard for typing.,extraction duration: 82.3753 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Tap on the search input area to activate the keyboard for typing.,operation duration: 142.3379 seconds
+Action ID: 4, Operation ID: 3, Operation Name: Type "best basketball player" into the search input area.,extraction duration: 76.4928 seconds
+Action ID: 4, Operation ID: 3, Operation Name: Type "best basketball player" into the search input area.,operation duration: 135.5417 seconds
+Action ID: 4, Operation ID: 4, Operation Name: Tap the search icon to execute the search for "best basketball player.",extraction duration: 76.0265 seconds
+Action ID: 4, Operation ID: 4, Operation Name: Tap the search icon to execute the search for "best basketball player.",operation duration: 136.9933 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap on the first post titled "SGA = best basketball player in the" by @JBBHoops to open it.,extraction duration: 45.8713 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap on the first post titled "SGA = best basketball player in the" by @JBBHoops to open it.,operation duration: 132.5012 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap on the pinned post titled "SGA = best basketball play..." to open it.,extraction duration: 44.8331 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap on the pinned post titled "SGA = best basketball play..." to open it.,operation duration: 101.4359 seconds
+Action ID: 6, Operation ID: 1, Operation Name: Tap the "Follow" button to follow the channel displayed on the screen.,extraction duration: 43.6864 seconds
+Action ID: 6, Operation ID: 1, Operation Name: Tap the "Follow" button to follow the channel displayed on the screen.,operation duration: 134.1186 seconds
+
+WhatsApp
+Action ID: 1, Operation ID: 1, Operation Name: Open the WhatsApp app from the home screen.,extraction duration: 7.9055 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the WhatsApp app from the home screen.,operation duration: 112.8778 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the contact named "dingjie" to enter the communication channel.,extraction duration: 12.1437 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the contact named "dingjie" to enter the communication channel.,operation duration: 105.0540 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the attachment button located at the bottom right of the screen.,extraction duration: 7.5923 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the attachment button located at the bottom right of the screen.,operation duration: 102.0289 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the "Gallery" button to open the photo gallery.,extraction duration: 7.8329 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the "Gallery" button to open the photo gallery.,operation duration: 70.6695 seconds
+Action ID: 3, Operation ID: 3, Operation Name: Tap on the second picture in the "Recent" section to select it.,extraction duration: 7.8687 seconds
+Action ID: 3, Operation ID: 3, Operation Name: Tap on the second picture in the "Recent" section to select it.,operation duration: 64.2906 seconds
+Action ID: 3, Operation ID: 4, Operation Name: Tap the green send button to send the selected picture.,extraction duration: 11.4110 seconds
+Action ID: 3, Operation ID: 4, Operation Name: Tap the green send button to send the selected picture.,operation duration: 69.0009 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the happy face emoji icon to send it in the chat.,extraction duration: 11.5136 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the happy face emoji icon to send it in the chat.,operation duration: 123.6931 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Tap on the happy face emoji with a big grin, open mouth, rosy cheeks, and closed eyes to send it.,extraction duration: 11.3712 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Tap on the happy face emoji with a big grin, open mouth, rosy cheeks, and closed eyes to send it.,operation duration: 81.4392 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap on the input box to activate the keyboard for typing.,extraction duration: 11.3496 seconds
+Action ID: 5, Operation ID: 4, Operation Name: Tap on the "Message" input box to activate the keyboard.,extraction duration: 11.5483 seconds
+Action ID: 5, Operation ID: 4, Operation Name: Tap on the "Message" input box to activate the keyboard.,operation duration: 73.7419 seconds
+Action ID: 5, Operation ID: 5, Operation Name: Type "LOL" into the message input box.,extraction duration: 11.5276 seconds
+Action ID: 5, Operation ID: 5, Operation Name: Type "LOL" into the message input box.,operation duration: 67.8506 seconds
+Action ID: 5, Operation ID: 6, Operation Name: Tap the green send button to send the "LOL" message.,extraction duration: 11.4595 seconds
+Action ID: 5, Operation ID: 6, Operation Name: Tap the green send button to send the "LOL" message.,operation duration: 82.9995 seconds
+
+
+
+BitTorrentAction ID: 1, Operation ID: 1, Operation Name: Open the BitTorrent app from the home screen.,extraction duration: 23.8712 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the BitTorrent app from the home screen.,extraction duration: 8.7080 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the BitTorrent app from the home screen.,operation duration: 96.4769 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the "add torrent link" button located near the search button to show the torrent input box.,extraction duration: 7.6342 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the "add torrent link" button located near the search button to show the torrent input box.,operation duration: 91.0012 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the input box to activate the keyboard for entering the torrent URL.,extraction duration: 13.3274 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the input box to activate the keyboard for entering the torrent URL.,operation duration: 71.4251 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Type "#CLEAR#" into the input box on the screen.,extraction duration: 14.4103 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Type "#CLEAR#" into the input box on the screen.,operation duration: 104.3645 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Type the link "magnet:?xt=urn:btih:A46A67635F1124CB60EED44C9D12226009F0C411" into the input box.,extraction duration: 13.4471 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Type the link "magnet:?xt=urn:btih:A46A67635F1124CB60EED44C9D12226009F0C411" into the input box.,operation duration: 103.7941 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap the "ADD" button to confirm and add the torrent.,extraction duration: 8.2026 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap the "ADD" button to confirm and add the torrent.,operation duration: 66.0729 seconds
+
+
+
+
+Backup
+r-1
+Action ID: 1, Operation ID: 1, Operation Name: Open the Reddit app from the home screen.,extraction duration: 10.8278 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the Reddit app from the home screen.,operation duration: 111.2615 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search icon to start searching for "r/videos.",extraction duration: 7.6379 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search icon to start searching for "r/videos.",operation duration: 105.3398 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the search input box to activate the keyboard.,extraction duration: 7.9018 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the search input box to activate the keyboard.,operation duration: 68.4849 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Type "r/videos" into the search bar to search for the channel.,extraction duration: 9.8615 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Type "r/videos" into the search bar to search for the channel.,operation duration: 65.3143 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Tap on the "r/videos" community to open the channel.,extraction duration: 6.2857 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Tap on the "r/videos" community to open the channel.,operation duration: 75.3853 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up from the bottom to the top of the screen to scroll down the page.,extraction duration: 6.3178 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up from the bottom to the top of the screen to scroll down the page.,operation duration: 112.7278 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Swipe up from the bottom of the screen to scroll down the page further.,extraction duration: 6.5130 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Swipe up from the bottom of the screen to scroll down the page further.,operation duration: 82.3317 seconds
+
+Mission 1_3_2
+Action ID: 1, Operation ID: 1, Operation Name: Pause the normal video currently playing on the screen.,extraction duration: 36.6183 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Pause the normal video currently playing on the screen.,operation duration: 138.8668 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe the video timeline slightly to the right to move the video forward a bit.,extraction duration: 34.2106 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe the video timeline slightly to the right to move the video forward a bit.,operation duration: 140.3025 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Swipe the video timeline slightly to the right to advance the video a bit more.,extraction duration: 34.1986 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Swipe the video timeline slightly to the right to advance the video a bit more.,operation duration: 100.5798 secondsAction ID: 1, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard and start the search for "Fortnite" on Twitch.,extraction duration: 4.5304 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard and start the search for "Fortnite" on Twitch.,operation duration: 107.1662 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Fortnite" into the search bar to search for it on Twitch.,extraction duration: 4.5525 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Fortnite" into the search bar to search for it on Twitch.,operation duration: 65.4887 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon to execute the search for "Fortnite" on Twitch.,extraction duration: 4.7295 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon to execute the search for "Fortnite" on Twitch.,operation duration: 61.1352 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard for searching Fortnite on Twitch.,extraction duration: 4.6602 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard for searching Fortnite on Twitch.,operation duration: 98.4363 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Fortnite" into the search bar to search for it on Twitch.,extraction duration: 3.7106 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Fortnite" into the search bar to search for it on Twitch.,operation duration: 61.9873 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon at the bottom right to initiate the search for "Fortnite" on Twitch.,extraction duration: 4.7208 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon at the bottom right to initiate the search for "Fortnite" on Twitch.,operation duration: 69.4057 seconds
+Action ID: 1, Operation ID: 4, Operation Name: Tap on the "FORTNITE" option to proceed with the search on Twitch.,extraction duration: 5.4074 seconds
+Action ID: 1, Operation ID: 4, Operation Name: Tap on the "FORTNITE" option to proceed with the search on Twitch.,operation duration: 72.5442 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar icon to activate the search function.,extraction duration: 4.7098 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar icon to activate the search function.,operation duration: 98.8891 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type the word "rainbow" into the search bar.,extraction duration: 4.7831 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type the word "rainbow" into the search bar.,operation duration: 65.9686 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon to execute the search for "rainbow" on Twitch.,extraction duration: 4.7686 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon to execute the search for "rainbow" on Twitch.,operation duration: 66.3103 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard.,extraction duration: 5.1191 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard.,operation duration: 102.6749 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Rainboxmj" into the search bar using the keyboard.,extraction duration: 5.1682 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Rainboxmj" into the search bar using the keyboard.,operation duration: 62.1596 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search button on the keyboard to execute the search for "Rainboxmj".,extraction duration: 3.3245 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search button on the keyboard to execute the search for "Rainboxmj".,operation duration: 63.5175 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "LIVE" icon next to the "Rainbow6" video to start watching the live show.,extraction duration: 6.6419 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "LIVE" icon next to the "Rainbow6" video to start watching the live show.,operation duration: 101.0722 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the "Twitch Drops" section to watch the live video show.,extraction duration: 7.4858 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the "Twitch Drops" section to watch the live video show.,operation duration: 69.0882 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap on the "Cancel" button to dismiss the confirmation dialog and continue watching the live video.,extraction duration: 7.5529 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap on the "Cancel" button to dismiss the confirmation dialog and continue watching the live video.,operation duration: 72.1696 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Type "dota" in the search box and press the blue search button on the keyboard to perform the search.,extraction duration: 6.2724 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Type "dota" in the search box and press the blue search button on the keyboard to perform the search.,operation duration: 211.2468 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the first live video titled "multivoltlive" to open it.,extraction duration: 12.6040 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the first live video titled "multivoltlive" to open it.,operation duration: 136.0010 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap the Android back button located at the bottom of the screen to exit the live screen.,extraction duration: 11.6521 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap the Android back button located at the bottom of the screen to exit the live screen.,operation duration: 125.0623 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe down on the screen to scroll and reveal more content.,extraction duration: 9.8326 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe down on the screen to scroll and reveal more content.,operation duration: 129.1138 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the first live video at coordinates (59, 263) to open it.,extraction duration: 10.0499 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the first live video at coordinates (59, 263) to open it.,operation duration: 74.9906 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the first live video titled "idkjustthies" to open it.,extraction duration: 13.2390 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the first live video titled "idkjustthies" to open it.,operation duration: 124.6213 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap the back button located at the bottom of the screen to exit the live screen.,extraction duration: 14.2934 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap the back button located at the bottom of the screen to exit the live screen.,operation duration: 128.2136 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe down on the screen to reveal more content.,extraction duration: 12.0542 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe down on the screen to reveal more content.,operation duration: 129.4517 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the "LIVE" icon next to the "JessGOAT" video to select and play the live video.,extraction duration: 11.9204 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Tap on the "LIVE" icon next to the "JessGOAT" video to select and play the live video.,operation duration: 81.0290 seconds
+Action ID: 3, Operation ID: 3, Operation Name: Tap on the live video located at coordinates (59, 499).,extraction duration: 11.6349 seconds
+Action ID: 3, Operation ID: 3, Operation Name: Tap on the live video located at coordinates (59, 499).,operation duration: 80.1846 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap the back button located at the bottom right of the screen to exit the live screen.,extraction duration: 12.8712 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap the back button located at the bottom right of the screen to exit the live screen.,operation duration: 126.2005 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Swipe down on the screen to scroll the page.,extraction duration: 13.1631 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Swipe down on the screen to scroll the page.,operation duration: 122.9825 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap on the live video located at coordinates [412, 465].,extraction duration: 14.6125 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap on the live video located at coordinates [412, 465].,operation duration: 89.9409 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the first Dota live video titled "nicoleheart23" to open it.,extraction duration: 15.6892 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the first Dota live video titled "nicoleheart23" to open it.,operation duration: 137.8312 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the magnifying glass icon to activate the search function in YouTube.,extraction duration: 59.3851 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the magnifying glass icon to activate the search function in YouTube.,operation duration: 201.9370 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Dota2 video" into the YouTube search bar.,extraction duration: 61.1630 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Dota2 video" into the YouTube search bar.,operation duration: 113.8932 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon to initiate the search for "Dota2 video" on YouTube.,extraction duration: 68.3607 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon to initiate the search for "Dota2 video" on YouTube.,operation duration: 125.4362 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the area labeled "Dota2 video" to select a Dota2 video.,extraction duration: 43.5437 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the area labeled "Dota2 video" to select a Dota2 video.,operation duration: 134.6799 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the area labeled "dota2 video" at coordinates [214, 193].,extraction duration: 68.5244 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the area labeled "dota2 video" at coordinates [214, 193].,operation duration: 124.7056 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Pause the video currently playing on the screen.,extraction duration: 47.3593 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Pause the video currently playing on the screen.,operation duration: 138.9037 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe right on the timeline from position (12, 451) to (100, 451).,extraction duration: 46.4916 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Swipe right on the timeline from position (12, 451) to (100, 451).,operation duration: 149.7676 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe right on the timeline from position (100, 451) to (200, 451).,extraction duration: 50.3842 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Swipe right on the timeline from position (100, 451) to (200, 451).,operation duration: 123.7041 seconds
+Action ID: 4, Operation ID: 3, Operation Name: Swipe right on the timeline from position (200, 451) to position (300, 451).,extraction duration: 57.1078 seconds
+Action ID: 4, Operation ID: 3, Operation Name: Swipe right on the timeline from position (200, 451) to position (300, 451).,operation duration: 130.6755 seconds
+Action ID: 4, Operation ID: 4, Operation Name: Swipe right on the timeline from position (300, 451) to position (400, 451).,extraction duration: 66.7765 seconds
+Action ID: 4, Operation ID: 4, Operation Name: Swipe right on the timeline from position (300, 451) to position (400, 451).,operation duration: 160.7235 seconds
+Action ID: 4, Operation ID: 5, Operation Name: Swipe right on the timeline from position (400, 451) to position (500, 451).,extraction duration: 59.7603 seconds
+Action ID: 4, Operation ID: 5, Operation Name: Swipe right on the timeline from position (400, 451) to position (500, 451).,operation duration: 171.9490 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap the search icon at the top right of the screen to activate the search input.,extraction duration: 64.5467 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap the search icon at the top right of the screen to activate the search input.,operation duration: 191.8005 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap the blue search button at the bottom right of the screen to search for "dota2 video" on YouTube.,extraction duration: 61.7933 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap the blue search button at the bottom right of the screen to search for "dota2 video" on YouTube.,operation duration: 143.7103 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Search YouTube" input box to activate the keyboard.,extraction duration: 61.0856 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Search YouTube" input box to activate the keyboard.,operation duration: 162.9015 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Dota2" in the search bar.,extraction duration: 64.4982 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Dota2" in the search bar.,operation duration: 116.3396 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the blue search button located at the bottom right of the screen to perform the search.,extraction duration: 40.3770 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the blue search button located at the bottom right of the screen to perform the search.,operation duration: 98.8748 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe down on the screen to scroll and reveal more content.,extraction duration: 38.2258 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe down on the screen to scroll and reveal more content.,operation duration: 128.8041 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the video titled "Team Liquid vs. Gaimin Gladiators - Game 3 - The Int..." to open it.,extraction duration: 79.3630 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the video titled "Team Liquid vs. Gaimin Gladiators - Game 3 - The Int..." to open it.,operation duration: 148.1332 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Swipe down on the screen to reveal more content and potentially find a Dota2 video.,extraction duration: 56.3180 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Swipe down on the screen to reveal more content and potentially find a Dota2 video.,operation duration: 140.6560 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Swipe down on the screen to continue browsing the content.,extraction duration: 68.7451 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Swipe down on the screen to continue browsing the content.,operation duration: 163.3334 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon to activate the keyboard for typing.,extraction duration: 73.7402 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon to activate the keyboard for typing.,operation duration: 204.0380 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Rainbox6" in the search bar and tap the blue search button at the bottom right.,extraction duration: 67.0134 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Rainbox6" in the search bar and tap the blue search button at the bottom right.,operation duration: 127.9889 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe up on the screen to scroll down and reveal more content.,extraction duration: 48.8504 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Swipe up on the screen to scroll down and reveal more content.,operation duration: 181.3177 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Swipe down on the screen to reveal more Rainbow6 video options.,extraction duration: 54.2657 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Swipe down on the screen to reveal more Rainbow6 video options.,operation duration: 139.8455 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Tap on the "Tom Clancy's Rainbow Six Siege" video to open it.,extraction duration: 41.7384 seconds
+Action ID: 2, Operation ID: 3, Operation Name: Tap on the "Tom Clancy's Rainbow Six Siege" video to open it.,operation duration: 136.9916 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Swipe down on the screen to adjust the view and reveal more content.,extraction duration: 51.2502 seconds
+Action ID: 2, Operation ID: 4, Operation Name: Swipe down on the screen to adjust the view and reveal more content.,operation duration: 114.3426 seconds
+Action ID: 1, Operation ID: 1, Operation Name: I will tap on the search icon (represented by the letter 'T') at the bottom right of the screen to activate the search function and bring up the keyboard. This will allow us to type "pubg" as per the user's instruction.,extraction duration: 71.1061 seconds
+Action ID: 1, Operation ID: 1, Operation Name: I will tap on the search icon (represented by the letter 'T') at the bottom right of the screen to activate the search function and bring up the keyboard. This will allow us to type "pubg" as per the user's instruction.,operation duration: 169.8154 seconds
+Action ID: 1, Operation ID: 1, Operation Name: I will tap on the YouTube search bar to activate it and prepare to type in the search query for "pubg" videos.,extraction duration: 69.0203 seconds
+Action ID: 1, Operation ID: 1, Operation Name: I will tap on the YouTube search bar to activate it and prepare to type in the search query for "pubg" videos.,operation duration: 178.9974 seconds
+Action ID: 1, Operation ID: 2, Operation Name: I will tap on the search bar to activate the keyboard, allowing us to type the search query "pubg" into YouTube.,extraction duration: 57.2200 seconds
+Action ID: 1, Operation ID: 2, Operation Name: I will tap on the search bar to activate the keyboard, allowing us to type the search query "pubg" into YouTube.,operation duration: 126.0319 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Type "Rainbox6" into the search bar.,extraction duration: 67.2659 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Type "Rainbox6" into the search bar.,operation duration: 155.1195 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap the blue search button located at the bottom right of the screen.,extraction duration: 42.0724 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap the blue search button located at the bottom right of the screen.,operation duration: 121.3676 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe down from near the top of the screen to the middle to slide down once.,extraction duration: 47.9679 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe down from near the top of the screen to the middle to slide down once.,operation duration: 131.6901 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the text "Did you mean: Rainbow 6" to search for relevant videos.,extraction duration: 55.1890 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the text "Did you mean: Rainbow 6" to search for relevant videos.,operation duration: 143.6984 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon at the top right corner to activate the search function.,extraction duration: 67.4425 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon at the top right corner to activate the search function.,operation duration: 163.4557 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Paul George" into the YouTube search bar.,extraction duration: 54.9341 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Paul George" into the YouTube search bar.,operation duration: 115.7611 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon at the bottom right to execute the search for "Paul George" on YouTube.,extraction duration: 64.5448 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon at the bottom right to execute the search for "Paul George" on YouTube.,operation duration: 121.3439 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon located at the top right corner of the screen to start searching for "Iverson" on YouTube.,extraction duration: 72.1981 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon located at the top right corner of the screen to start searching for "Iverson" on YouTube.,operation duration: 173.0869 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Iverson" into the YouTube search bar.,extraction duration: 75.0235 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type "Iverson" into the YouTube search bar.,operation duration: 128.9275 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon at the bottom right to execute the search for "Iverson" on YouTube.,extraction duration: 47.5433 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap the search icon at the bottom right to execute the search for "Iverson" on YouTube.,operation duration: 100.9815 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon to activate the keyboard.,extraction duration: 74.0256 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon to activate the keyboard.,operation duration: 172.9787 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type the word "Jordan" into the search bar using the on-screen keyboard.,extraction duration: 72.2469 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type the word "Jordan" into the search bar using the on-screen keyboard.,operation duration: 125.8807 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon to activate the keyboard.,extraction duration: 75.0486 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the search icon to activate the keyboard.,operation duration: 180.3134 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type the word "Trump" into the search bar.,extraction duration: 73.4277 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Type the word "Trump" into the search bar.,operation duration: 125.5452 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Type the text "#ENTER#" using the on-screen keyboard.,extraction duration: 47.5008 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Type the text "#ENTER#" using the on-screen keyboard.,operation duration: 134.9354 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up from the middle of the screen to scroll down the video content once.,extraction duration: 43.7845 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Swipe up from the middle of the screen to scroll down the video content once.,operation duration: 142.9975 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the first video titled "WATCH LIVE: Trump holds campaign rally in Coachella in rare visit to solidl.." to open it.,extraction duration: 81.0768 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Tap on the first video titled "WATCH LIVE: Trump holds campaign rally in Coachella in rare visit to solidl.." to open it.,operation duration: 179.9752 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Tap on the video titled "HARRIS-TRUMP2024 FULL PRESIDENTIAL DEBATE" to select it.,extraction duration: 78.2488 seconds
+Action ID: 4, Operation ID: 2, Operation Name: Tap on the video titled "HARRIS-TRUMP2024 FULL PRESIDENTIAL DEBATE" to select it.,operation duration: 141.2174 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Pause the currently playing normal video.,extraction duration: 50.2832 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Pause the currently playing normal video.,operation duration: 145.6202 seconds
+Action ID: 6, Operation ID: 1, Operation Name: Swipe right on the timeline from position (103, 406) to (203, 406) to move the red circular marker forward.,extraction duration: 50.4152 seconds
+Action ID: 6, Operation ID: 1, Operation Name: Swipe right on the timeline from position (103, 406) to (203, 406) to move the red circular marker forward.,operation duration: 144.0435 seconds
+Action ID: 6, Operation ID: 2, Operation Name: Swipe right on the timeline from position (203, 406) to (303, 406).,extraction duration: 58.7344 seconds
+Action ID: 6, Operation ID: 2, Operation Name: Swipe right on the timeline from position (203, 406) to (303, 406).,operation duration: 121.6706 seconds
+Action ID: 6, Operation ID: 3, Operation Name: Perform a swipe right action on the timeline from position (303, 406) to (403, 406) to move the red circular marker forward.,extraction duration: 52.5154 seconds
+Action ID: 6, Operation ID: 3, Operation Name: Perform a swipe right action on the timeline from position (303, 406) to (403, 406) to move the red circular marker forward.,operation duration: 111.4273 seconds
+Action ID: 6, Operation ID: 4, Operation Name: Swipe right on the timeline from position (403, 406) to (503, 406).,extraction duration: 48.0516 seconds
+Action ID: 6, Operation ID: 4, Operation Name: Swipe right on the timeline from position (403, 406) to (503, 406).,operation duration: 105.8390 seconds
+Action ID: 1, Operation ID: 1, Operation Name: I will open the Instagram app from the home screen.,extraction duration: 55.6712 seconds
+Action ID: 1, Operation ID: 1, Operation Name: I will open the Instagram app from the home screen.,operation duration: 160.7353 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search icon at the bottom of the screen to switch to the search section.,extraction duration: 59.7239 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the search icon at the bottom of the screen to switch to the search section.,operation duration: 178.1700 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard.,extraction duration: 58.3968 seconds
+Action ID: 3, Operation ID: 1, Operation Name: Tap on the search bar to activate the keyboard.,operation duration: 197.2946 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Type "James" into the search bar using the keyboard.,extraction duration: 59.0515 seconds
+Action ID: 3, Operation ID: 2, Operation Name: Type "James" into the search bar using the keyboard.,operation duration: 128.2135 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Type the text "#ENTER" using the on-screen keyboard.,extraction duration: 58.4976 seconds
+Action ID: 4, Operation ID: 1, Operation Name: Type the text "#ENTER" using the on-screen keyboard.,operation duration: 157.4180 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap on the first post in the "Posts" section to view it.,extraction duration: 58.3306 seconds
+Action ID: 5, Operation ID: 1, Operation Name: Tap on the first post in the "Posts" section to view it.,operation duration: 163.7821 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap on the follow button to follow the post owner.,extraction duration: 55.5806 seconds
+Action ID: 5, Operation ID: 2, Operation Name: Tap on the follow button to follow the post owner.,operation duration: 103.7699 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Follow" button for Labdhi Shah to follow this user.,extraction duration: 67.5481 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Follow" button for Labdhi Shah to follow this user.,operation duration: 185.4290 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap the "Follow" button next to Cathy Wilson to follow her.,extraction duration: 63.8873 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap the "Follow" button next to Cathy Wilson to follow her.,operation duration: 155.8452 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Perform a swipe down gesture from the top to the middle of the screen to slide down once.,extraction duration: 63.5661 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Perform a swipe down gesture from the top to the middle of the screen to slide down once.,operation duration: 152.0188 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the post content to interact with it.,extraction duration: 67.1069 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the post content to interact with it.,operation duration: 164.8860 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the post located at coordinates [199, 1120] to interact with it.,extraction duration: 68.9811 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap on the post located at coordinates [199, 1120] to interact with it.,operation duration: 128.8532 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Swipe up on the screen from near the bottom to the middle to slide up the post once.,extraction duration: 73.5020 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Swipe up on the screen from near the bottom to the middle to slide up the post once.,operation duration: 164.0222 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the post titled "Easy, Cheesy Smoked Pizza Dip" to open it.,extraction duration: 58.5988 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the post titled "Easy, Cheesy Smoked Pizza Dip" to open it.,operation duration: 146.9992 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Swipe up from near the bottom of the screen to a point higher up to slide up once.,extraction duration: 70.8041 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Swipe up from near the bottom of the screen to a point higher up to slide up once.,operation duration: 167.0748 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the play button icon at coordinates (503, 1510) to interact with the video.,extraction duration: 100.2532 seconds
+Action ID: 2, Operation ID: 1, Operation Name: Tap on the play button icon at coordinates (503, 1510) to interact with the video.,operation duration: 192.0823 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap in the middle of the screen to interact with the video.,extraction duration: 92.7085 seconds
+Action ID: 2, Operation ID: 2, Operation Name: Tap in the middle of the screen to interact with the video.,operation duration: 149.2689 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Watch more reels" button to interact with the video content.,extraction duration: 87.8622 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Watch more reels" button to interact with the video content.,operation duration: 174.0887 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the play button icon at coordinates [503, 1510] to interact with the video.,extraction duration: 96.1373 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap on the play button icon at coordinates [503, 1510] to interact with the video.,operation duration: 160.2848 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap in the middle of the screen to interact with the video.,extraction duration: 91.4174 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap in the middle of the screen to interact with the video.,operation duration: 155.8964 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Watch more reels" button to interact with the video.,extraction duration: 89.5264 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Tap on the "Watch more reels" button to interact with the video.,operation duration: 173.4260 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap once on the video in the center of the screen to interact with it.,extraction duration: 87.2641 seconds
+Action ID: 1, Operation ID: 2, Operation Name: Tap once on the video in the center of the screen to interact with it.,operation duration: 142.4596 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap on the play button icon located at the bottom of the screen to interact with the video.,extraction duration: 76.2015 seconds
+Action ID: 1, Operation ID: 3, Operation Name: Tap on the play button icon located at the bottom of the screen to interact with the video.,operation duration: 136.3926 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the YouTube app from the home screen.,extraction duration: 57.3373 seconds
+Action ID: 1, Operation ID: 1, Operation Name: Open the YouTube app from the home screen.,operation duration: 154.2907 seconds
