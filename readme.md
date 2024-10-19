@@ -21,8 +21,8 @@ To get started with AutoThumb, follow these steps:
    ```bash
    git clone https://github.com/yourusername/AutoThumb.git
    ```
-3. change the ADB path in `autoThumb/thumb_function.py` , make sure also it is added inside the environment path variables.  
-   
+3. change the ADB path in `autoThumb/thumb_function.py` , make sure also it is added inside the environment path variables. Also input the qwen token and ChatGPT token inside.
+
 4. Run the project using the provided batch file:
    ```bash
    git clone https://github.com/yourusername/AutoThumb.git
