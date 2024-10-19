@@ -4,9 +4,8 @@ AutoThumb is an automation framework demo designed to detect changes in target a
 
 ## 🎬 Demonstration Video
 Watch the implementation of AutoThumb in action on this video  
-<video src="./mdsrc/showcase.mp4" width="600" height="400" controls autoplay muted>
-    Your browser does not support the video tag.
-</video>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/y-ETaoWjfdQ" 
+        frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## 📂 Experimental Data
 All experimental data and results from performed experiments are stored in the `RESULT` directory. These results showcase the framework's capabilities in tracking artifact changes and thumbnail comparisons. 
